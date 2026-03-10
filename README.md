@@ -1,6 +1,6 @@
-###Perform 2026: Intro to DQL, Part 2
+# Perform 2026: Intro to DQL, Part 2
 
-Prior to the lab:
+## Prior to the lab:
 
 The user will have to execute initialize.sh
 
