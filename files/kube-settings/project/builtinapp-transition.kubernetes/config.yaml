@@ -1,11 +1,11 @@
 configs:
-- id: 43a3b928-8713-3793-bf70-280beca29ee4
+- id: f254c84c-b4ff-3bd4-ab0d-26159c476114
   config:
-    template: 43a3b928-8713-3793-bf70-280beca29ee4.json
+    template: f254c84c-b4ff-3bd4-ab0d-26159c476114.json
     skip: false
-    originObjectId: vu9U3hXa3q0AAAABACFidWlsdGluOmFwcC10cmFuc2l0aW9uLmt1YmVybmV0ZXMABnRlbmFudAAGdGVuYW50ACRhODY2YTIzYS0xZGRmLTNhNmYtYmQ0MS01NmE1MDEzYTliMzi-71TeFdrerQ
+    originObjectId: vu9U3hXa3q0AAAABACFidWlsdGluOmFwcC10cmFuc2l0aW9uLmt1YmVybmV0ZXMABnRlbmFudAAGdGVuYW50ACRhYWUyOWZmOC1iOWM3LTNlMWUtODg4Yy1hYWFhYzVmZTZlMmO-71TeFdrerQ
   type:
     settings:
       schema: builtin:app-transition.kubernetes
-      schemaVersion: 1.0.3
+      schemaVersion: "1.1"
       scope: environment
