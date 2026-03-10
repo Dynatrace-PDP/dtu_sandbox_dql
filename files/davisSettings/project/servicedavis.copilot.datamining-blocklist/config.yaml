@@ -1,0 +1,11 @@
+configs:
+- id: 595048f4-38b6-3575-9d38-84e7f0b1067f
+  config:
+    template: 595048f4-38b6-3575-9d38-84e7f0b1067f.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACpzZXJ2aWNlOmRhdmlzLmNvcGlsb3QuZGF0YW1pbmluZy1ibG9ja2xpc3QABnRlbmFudAAGdGVuYW50ACQ2MzgwYTAwMC1hZmQwLTM4MjItOGI2NS02NWRlNTI1YjZjMDG-71TeFdrerQ
+  type:
+    settings:
+      schema: service:davis.copilot.datamining-blocklist
+      schemaVersion: "0.3"
+      scope: environment

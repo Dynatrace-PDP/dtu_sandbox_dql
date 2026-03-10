@@ -1,0 +1,11 @@
+configs:
+- id: 43a3b928-8713-3793-bf70-280beca29ee4
+  config:
+    template: 43a3b928-8713-3793-bf70-280beca29ee4.json
+    skip: false
+    originObjectId: vu9U3hXa3q0AAAABACFidWlsdGluOmFwcC10cmFuc2l0aW9uLmt1YmVybmV0ZXMABnRlbmFudAAGdGVuYW50ACRhODY2YTIzYS0xZGRmLTNhNmYtYmQ0MS01NmE1MDEzYTliMzi-71TeFdrerQ
+  type:
+    settings:
+      schema: builtin:app-transition.kubernetes
+      schemaVersion: 1.0.3
+      scope: environment

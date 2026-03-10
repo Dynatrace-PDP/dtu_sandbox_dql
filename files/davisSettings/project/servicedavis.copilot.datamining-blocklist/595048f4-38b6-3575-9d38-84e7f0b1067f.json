@@ -1,0 +1,6 @@
+{
+  "enableCopilot": true,
+  "enableDocumentSuggestion": true,
+  "enableTenantAwareDataMining": true,
+  "blocklistEntries": []
+}

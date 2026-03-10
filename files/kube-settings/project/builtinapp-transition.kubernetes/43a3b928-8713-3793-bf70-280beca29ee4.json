@@ -1,0 +1,6 @@
+{
+  "kubernetesAppOptions": {
+    "enableKubernetesApp": true,
+    "enableKubernetesSmartscape": true
+  }
+}

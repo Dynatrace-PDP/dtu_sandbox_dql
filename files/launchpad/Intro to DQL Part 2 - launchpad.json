@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 2,
+  "icon": "data:image/png;base64,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",
+  "background": "default",
+  "containerList": {
+    "containers": [
+      {
+        "blocks": [
+          {
+            "id": "b66543cf-11d4-48b1-9d14-7122f2268864",
+            "type": "markdown",
+            "properties": { "expanded": true },
+            "content": "\n# 👋 Welcome to **Introduction to Grail and DQL – Part 2**\n\nIn this course, you will learn how to:\n\n- **Parse and transform complex log and metric data** using advanced DQL techniques  \n- **Use OpenPipeline** to pre‑process data before querying with DQL  \n- **Build DQL queries** that generate Dynatrace Copilot prompts for intelligent automation  \n- **Utilize the new Smartscape model** in DQL queries for topology‑aware observability  \n- **Customize the MCP server** to extend observability workflows using DQL  \n\n---\n\n## 🧪 Exercise Data Source\n\nAll hands‑on exercises use telemetry produced by the **OpenTelemetry Demo** running in a **Kubernetes** cluster. The demo is a polyglot microservices web store that emits logs, metrics, and traces via OTLP.\n\n---\n\n## 📚 Training Structure\n\nThis training section is made up of **6 parts**:\n\n1. **Advanced Parsing with DQL**  \n2. **Data Pre‑Processing using OpenPipeline**  \n3. **Copilot Integration through DQL Queries**  \n4. **Topology‑Aware Observability with Smartscape**  \n5. **Extending Workflows via MCP Server Customization**  \n6. **Hands‑on Exercises and Best Practices**  \n\n---\n\n## 🗺️ Service Architecture (Simplified)\n\n            +-------------------+\n            |   Load Generator  |\n            +---------+---------+\n                      |\n                      |  (HTTP Requests)\n                      v\n            +-------------------+\n            |     Frontend      |\n            +---------+---------+\n                      |\n                      |  (Routes Requests)\n                      v\n    +---------+-------+-------+---------+\n    | Catalog | Reviews | Ads | Cart    |\n    +----+----+----+----+-----+----+----+\n         |         |        |       |\n         |         |        |       |  (Service Calls)\n         v         v        v       v\n    +---------+-------+-------+---------+\n    | Checkout | Payment | Shipping     |\n    +----+-----+----+----+--------------+\n         |          |          |\n         |          |          |  (Internal API Calls)\n         v          v          v\n    +---------+-------+-------+---------+\n    | Currency | Email | Image | Quote  |\n    +----+-----+-------+-------+--------+\n         |\n         |  (Data Updates / Notifications)\n         v\n    +--------------------+\n    | Accounting | Flagd |\n    +--------------------+\n\n\n🔗 **Learn more about the OpenTelemetry Demo architecture:**  \n[https://opentelemetry.io/docs/demo/architecture/](https://opentelemetry.io/docs/demo/architecture/)\n\n\n---\n\n🚀 Let’s dive in and unlock the full power of Grail and DQL!"
+          },
+          {
+            "id": "fcb44dc2-6cc2-4175-bf82-ceaeb32bde6c",
+            "type": "markdown",
+            "properties": { "expanded": true },
+            "content": "# Exercices : "
+          },
+          {
+            "id": "a774373e-b6cf-4689-bb3e-bb8e75746f36",
+            "type": "links",
+            "properties": { "expanded": true },
+            "appearance": "list",
+            "contentType": "static",
+            "content": [
+              {
+                "id": "1dfa89ac-60d6-4f8d-8702-ebaa8d4f4ea6",
+                "type": "doc",
+                "title": "EXERCISE 1_ Warm Up",
+                "action": {
+                  "type": "openDocument",
+                  "documentId": "my-b53071d5-2cac-452e-94b9-69ba28f964e5"
+                },
+                "icon": "",
+                "categoryId": "notebooks"
+              },
+              {
+                "id": "415f3ae5-a7e8-4eb1-890c-07b0af89932c",
+                "type": "doc",
+                "title": "EXERCISE 2_ Data Aggregation and Enrichment",
+                "action": {
+                  "type": "openDocument",
+                  "documentId": "my-652ac084-d076-4a25-9cfe-93a997c8535f"
+                },
+                "icon": "",
+                "categoryId": "notebooks"
+              },
+              {
+                "id": "01df0d24-cdfc-4b51-b9f1-b8394a48916e",
+                "type": "doc",
+                "title": "EXERCISE 3_ OpenPipeline",
+                "action": {
+                  "type": "openDocument",
+                  "documentId": "my-f04e60c4-e9fc-4358-b5c8-81fcb357c3e9"
+                },
+                "icon": "",
+                "categoryId": "notebooks"
+              },
+              {
+                "id": "fef250d4-fb3a-4390-a856-31969e575c3a",
+                "type": "doc",
+                "title": "EXERCISE 5_ Copilot Prompts",
+                "description": "",
+                "icon": "",
+                "action": {
+                  "type": "openDocument",
+                  "documentId": "my-2e35a1df-abb7-41a4-b4ee-af90fb109ad6"
+                },
+                "categoryId": "notebooks"
+              },
+              {
+                "id": "045b8895-445d-4115-a482-2ef66ce317ca",
+                "type": "doc",
+                "title": "EXERCISE BONUS_ Advanced Exercise (Optional)",
+                "description": "",
+                "icon": "",
+                "action": {
+                  "type": "openDocument",
+                  "documentId": "my-161727fd-d715-4106-9c29-3914dd5d7342"
+                },
+                "categoryId": "notebooks"
+              }
+            ]
+          },
+          {
+            "id": "07a0f6ea-1a22-42fe-a2ed-185d8c9b2bc1",
+            "type": "cards",
+            "properties": { "expanded": true },
+            "content": [
+              {
+                "id": "6705814d-47e6-496c-b2cb-d2d47bee9c3e",
+                "title": "Exercise 4_DQL and NEW Smartscape",
+                "action": {
+                  "type": "openExternalLink",
+                  "url": "https://wkf10640.apps.dynatrace.com/ui/document/v0/#share=ef70f320-81c5-4cad-9bb9-f3e982bb4be8"
+                },
+                "buttonName": "Link to the exercice",
+                "description": "Let's discover the New Smartscape\n\nLet's take a look at the new Smartscape on Grail store. ",
+                "imageDark": "https://cdn.prod.website-files.com/65d609edcc331dd0e4eb519b/6789d9401ee5aa607fa2ce2b_AD_4nXdu5sCSTb09Jv5BeSKv8Kh0X8J-K33i4XFIW-wxn20O-vguJF7UzU0VJO89G4D4nHUhRfHRXr4xG93Unx1DucSYm0PbimIMNE2UUjjQJwzw5TXPnkMEChVrpF-zlwvqPX5sqSc.png",
+                "imageLight": "https://cdn.prod.website-files.com/65d609edcc331dd0e4eb519b/6789d9401ee5aa607fa2ce2b_AD_4nXdu5sCSTb09Jv5BeSKv8Kh0X8J-K33i4XFIW-wxn20O-vguJF7UzU0VJO89G4D4nHUhRfHRXr4xG93Unx1DucSYm0PbimIMNE2UUjjQJwzw5TXPnkMEChVrpF-zlwvqPX5sqSc.png"
+              }
+            ]
+          }
+        ],
+        "horizontalLayoutWeight": 1
+      }
+    ]
+  }
+}
