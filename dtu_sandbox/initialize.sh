@@ -189,7 +189,7 @@ export dttoken="${dt_token_value}"
 /home/${instance_user}/monaco deploy /home/${instance_user}/dtu_sandbox_dql/files/davisSettings/manifest.yaml
 
 ###Remove unnecessary apps
-kubectl delete ns easytrade otel-demo unguard
+kubectl delete namespace easytrade otel-demo unguard --ignore-not-found
 
 ###Helm Function
 add_helm_repo() {
@@ -414,4 +414,3 @@ kubectl patch ingress unguard-ingress -n "${UNGUARD_NS}" \
     }
   }"
 
-  
